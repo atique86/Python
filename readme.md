@@ -30,4 +30,4 @@ Este es mi primer proyecto en Python. Aquí encontrarás scripts y recursos rela
 
 ## Autor
 
-Creado por Andrés Tique.
+Creado por Andrés Tique Cifuentes
